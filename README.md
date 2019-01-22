@@ -1,6 +1,6 @@
 Grant submitted to Google AI Impact Challeng entitled "AI for Social Good: Confronting Gender-based Violence (GBV) at Early Stage in Pakistan using Social Media Data Profiling" 
 
-Please find 2 min. short video at the following URL: https://www.dropbox.com/s/ccb4p97hiio41px/AI%20for%20Social%20Good.mp4?dl=0
+Please find 2 min. short video at the following URL: https://www.dropbox.com/s/hkctwmuvc7gaiay/AI_For_Social_Good.mp4?dl=0
 
 
 
