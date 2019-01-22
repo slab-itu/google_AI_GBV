@@ -5,11 +5,12 @@ Please find 2 min. short video at the following URL: https://www.dropbox.com/s/c
 
 
 
-PI: Saeed Ul Hassan (Ph.D.) <saeed-ul-hassan@itu.edu.pk>
+PI: Saeed Ul Hassan (Ph.D. in Data Science) <https://itu.edu.pk/faculty-itu/dr-saeed-ul-hassan/>
 
 Co-PI (s):
 
-Mohsen Ali (Ph. D.) <mohsen.ali@itu.edu.pk>
+Mohsen Ali (Ph. D. in Computer Vision and Machine Learning -  University of Florida, USA) <https://itu.edu.pk/faculty-itu/mohsen-ali/>
 
-Agha Ali Raza (Ph. D.) <agha.ali.raza@itu.edu.pk>
+
+Agha Ali Raza (PhD in Computer Science/Language Technologies - CMU, USA) <https://itu.edu.pk/faculty-itu/dr-agha-ali-raza/>
 
