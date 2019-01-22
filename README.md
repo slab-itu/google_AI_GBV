@@ -5,7 +5,7 @@ Please find 2 min. short video at the following URL: https://www.dropbox.com/s/c
 
 
 
-PI: Saeed Ul Hassan (Ph.D. in Data Science) <https://itu.edu.pk/faculty-itu/dr-saeed-ul-hassan/>
+PI: Saeed Ul Hassan (Ph.D. in Information Management - AIT, Thailand, Post Doc. United Nations) <https://itu.edu.pk/faculty-itu/dr-saeed-ul-hassan/>
 
 Co-PI (s):
 
