@@ -3,6 +3,8 @@ Grant submitted to Google AI Impact Challeng entitled "AI for Social Good: Confr
 Please find 2 min. short video at the following URL: https://www.dropbox.com/s/ccb4p97hiio41px/AI%20for%20Social%20Good.mp4?dl=0
 
 
+
+
 PI: Saeed Ul Hassan (Ph.D.) <saeed-ul-hassan@itu.edu.pk>
 
 Co-PI (s):
