@@ -12,5 +12,5 @@ Co-PI (s):
 Mohsen Ali (Ph. D. in Computer Vision and Machine Learning -  University of Florida, USA) <https://itu.edu.pk/faculty-itu/mohsen-ali/>
 
 
-Agha Ali Raza (PhD in Computer Science/Language Technologies - CMU, USA) <https://itu.edu.pk/faculty-itu/dr-agha-ali-raza/>
+Agha Ali Raza (Ph. D. in Computer Science/Language Technologies - CMU, USA) <https://itu.edu.pk/faculty-itu/dr-agha-ali-raza/>
 
