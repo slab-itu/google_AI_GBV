@@ -1,8 +1,6 @@
 Grant submitted to Google AI Impact Challeng entitled "AI for Social Good: Confronting Gender-based Violence (GBV) at Early Stage in Pakistan using Social Media Data Profiling" 
 
-PI: 
-
-Saeed Ul Hassan (Ph.D.) <saeed-ul-hassan@itu.edu.pk>
+PI: Saeed Ul Hassan (Ph.D.) <saeed-ul-hassan@itu.edu.pk>
 
 Co-PI (s):
 
